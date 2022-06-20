@@ -1,6 +1,6 @@
 {
-  "name": "javascript-project-boilerplate",
-  "version": "1.0.1",
+  "name": "backbone-form",
+  "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -9,15 +9,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/JamesRobertHugginsNgo/javascript-project-boilerplate.git"
+    "url": "git+https://github.com/JamesRobertHugginsNgo/backbone-form.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/JamesRobertHugginsNgo/javascript-project-boilerplate/issues"
+    "url": "https://github.com/JamesRobertHugginsNgo/backbone-form/issues"
   },
-  "homepage": "https://github.com/JamesRobertHugginsNgo/javascript-project-boilerplate#readme",
+  "homepage": "https://github.com/JamesRobertHugginsNgo/backbone-form#readme",
   "devDependencies": {
     "@babel/core": "^7.17.8",
     "@babel/eslint-parser": "^7.17.0",
